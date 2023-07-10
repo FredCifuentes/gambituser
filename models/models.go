@@ -12,3 +12,5 @@ type SignUp struct{
 	UserMail            string `json:"UserMail"`
 	UserUUID            string `json:"UserUUID"`
 }
+
+
